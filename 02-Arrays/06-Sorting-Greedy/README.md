@@ -1,0 +1,1 @@
+Sorting greedy technique
